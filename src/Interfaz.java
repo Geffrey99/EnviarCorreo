@@ -120,7 +120,8 @@ public class Interfaz {
         JpanelAplicacion.add(ENVIARButton);
         JpanelAplicacion.add(CANCELARButton);
 */
-        // Configura las acciones de los botones
+        // LLAMO AL METODO DE ACEPTAR O CANCELAR
+
         configurarAcciones();
     }
 
